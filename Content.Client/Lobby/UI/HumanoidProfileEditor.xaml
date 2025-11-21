@@ -34,7 +34,7 @@
                 <BoxContainer Orientation="Vertical" MinSize="60 0" HorizontalExpand="True" HorizontalAlignment="Right">
                     <ui:HighlightedContainer Name="ProfileHighlight">
                         <BoxContainer Orientation="Vertical">
-                            <Button Name="SaveButton" Text="{Loc 'humanoid-profile-editor-save-button'}"/>
+                            <Button Name="SaveButton" Text="Finalize and Join"/>
                             <Button Name="ResetButton" Disabled="True" Text="{Loc 'humanoid-profile-editor-reset-button'}"/>
                             <Button Name="ImportButton" Text="{Loc 'humanoid-profile-editor-import-button'}"/>
                             <Button Name="ExportButton" Text="{Loc 'humanoid-profile-editor-export-button'}"/>
