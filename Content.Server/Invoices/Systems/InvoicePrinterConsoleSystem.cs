@@ -33,7 +33,6 @@ using Content.Shared.Station.Components;
 using Content.Shared.StationRecords;
 using Content.Shared.Throwing;
 using JetBrains.Annotations;
-using JetBrains.FormatRipper.Elf;
 using NetCord;
 using Robust.Server.GameObjects;
 using Robust.Shared.Audio.Systems;
